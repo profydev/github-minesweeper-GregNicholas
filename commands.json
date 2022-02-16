@@ -3,6 +3,10 @@
 	  "clear A8",
 	  "flag C3",
 	  "flag D2",
+<<<<<<< HEAD
 	  "clear H9
+=======
+	  "clear H8"
+>>>>>>> 5006ae8401617b834c30d92d41e3f83c3db84cb8
   ]
 }
