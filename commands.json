@@ -16,7 +16,8 @@
 >>>>>>> e52f47e694a76c6224d83802efae70cfc51cbd7c
 =======
   "commands": [
-	  "clear A1"
+	  "clear A1",
+	  "clear H6"
   ]
 >>>>>>> d2e6b42ef786b03e5ae0125f7b94c5d35b647b64
 }
